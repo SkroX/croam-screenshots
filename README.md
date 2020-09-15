@@ -1,5 +1,5 @@
 # Screenshots of Croam App.
-### Can't make the code public abiding by the Non Disclosure Agreement(NDA).
+### Can't make the source code public abiding by the Non Disclosure Agreement(NDA).
 
 
 ## Splash Screen
